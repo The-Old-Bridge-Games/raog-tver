@@ -2,7 +2,7 @@
 name: Deploy App to Firebase Hosting
 on:
   push:
-   branches:
+    branches:
       - changes
     paths:
       - "lib/**"
