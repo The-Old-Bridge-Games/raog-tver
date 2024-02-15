@@ -14,8 +14,11 @@ jobs:
 
       - uses: subosito/flutter-action@v1
         with:
-          flutter-version: '3.16.x' 
-          channel: 'beta' # Required for web
+          flutter-version: '3.16.9' 
+          channel: 'stable' # Required for web
+
+      - name: Upgrade Flutter
+      run: flutter upgrade
 
       - name: Enable Flutter Web
         run: flutter config --enable-web
