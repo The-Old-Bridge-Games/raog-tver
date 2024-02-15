@@ -18,7 +18,7 @@ jobs:
           channel: 'stable' # Required for web
 
       - name: Upgrade Flutter
-      run: flutter upgrade
+        run: flutter upgrade
 
       - name: Enable Flutter Web
         run: flutter config --enable-web
