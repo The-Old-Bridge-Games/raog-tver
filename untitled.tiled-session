@@ -5,8 +5,8 @@
     },
     "activeFile": "assets/tiles/map.tmx",
     "expandedProjectPaths": [
-        ".",
         "assets",
+        ".",
         "assets/tiles"
     ],
     "fileStates": {
@@ -17,11 +17,11 @@
             "scaleInDock": 1
         },
         "assets/tiles/map.tmx": {
-            "scale": 3.8929,
-            "selectedLayer": 6,
+            "scale": 2.1313,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 195.22720850779623,
-                "y": 151.17264764057643
+                "x": 173.13376812274197,
+                "y": 136.77098484493035
             }
         },
         "assets/tiles/map.tmx#Adam_16x16": {
@@ -38,6 +38,9 @@
         "assets/tiles/map.tmx#Amelia": {
             "scaleInDock": 2.7308,
             "scaleInEditor": 1.63
+        },
+        "assets/tiles/map.tmx#Amelia_16x16": {
+            "scaleInDock": 1.5362
         },
         "assets/tiles/map.tmx#Bob_16x16": {
             "scaleInDock": 1.9669,
@@ -59,6 +62,7 @@
             "scaleInDock": 1
         },
         "assets/tiles/map.tmx#alpha": {
+            "scaleInDock": 2.4428,
             "scaleInEditor": 3.36
         },
         "assets/tiles/map.tmx#interiors": {

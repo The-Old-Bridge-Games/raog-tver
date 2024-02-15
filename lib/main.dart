@@ -84,6 +84,7 @@ class RaogTverMeta extends FlameGame with HasCollisionDetection {
   @override
   FutureOr<void> onLoad() async {
     // bgm = await FlameAudio.loopLongAudio('SUCHI PEGA.mp3', volume: 0.3);
+    //
     const jBackgroundRadius = 20.0;
     const jKnobRadius = 7.0;
     const jPadding = 16.0;
