@@ -1,11 +1,10 @@
 # Your GitHub Actions workflow file here
 name: Deploy App to Firebase Hosting
+
 on:
   push:
     branches:
       - changes
-    paths:
-      - "lib/**"
 
 jobs:
   build_and_preview:
